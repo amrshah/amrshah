@@ -63,6 +63,21 @@ I focus on building systems that are clear in purpose, consistent in design, and
 
 ---
 
+## Current Research & Work in Progress: Multi-Agent Orchestration (MAO)
+
+I am currently working on Multi-Agent Orchestration (MAO) systems to automate complex business workflows for digital marketing agencies and other operationally heavy industries. The goal is to design agentic pipelines that combine automated intelligence with Human-In-The-Loop (HITL) oversight to ensure accuracy, adaptability, and business alignment.
+
+My focus areas include:
+
+- Designing modular agent workflows for content generation, campaign setup, and operational execution  
+- Coordinating autonomous agents with supervisory agents and HITL checkpoints  
+- Defining orchestration patterns for multi-step, stateful business processes  
+- Integrating traditional backend systems (Laravel/PHP) with modern LLM-based agent frameworks  
+- Building a long-term system capable of operating 70–90% of a company’s routine workflows in a semi-autonomous mode
+
+This is an ongoing project with active experimentation and prototype development.  
+I plan to open-source parts of the orchestration framework and tooling as they mature.
+
 ## Contact
 
 Portfolio: https://amrshah.github.io  
@@ -70,3 +85,15 @@ GitHub: https://github.com/amrshah
 Email: amr.shah@gmail.com  
 
 Open to senior engineering, architecture, consulting, and collaboration opportunities.
+
+## Support & Sponsorship
+
+If you find my work valuable or would like to support the open-source projects, research, and development I maintain, you can sponsor or collaborate through the following channels:
+
+- GitHub Sponsors  
+- BuyMeACoffee  
+- Ko-fi  
+- Direct collaboration or consulting requests via email: amr.shah@gmail.com
+
+Your support helps sustain development of backend systems, accounting tools, agentic automation workflows, and upcoming multi-agent orchestration projects.
+
