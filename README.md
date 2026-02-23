@@ -1,99 +1,135 @@
-# Ali Raza — Software Architect & Senior Backend Engineer
+# Ali Raza (Amr Shah)
 
-I am a software architect and backend-focused engineer with over 17 years of experience designing reliable APIs, enterprise web platforms, and accounting systems. My work spans backend architecture, Laravel/PHP development, system design, and leading small engineering teams to deliver stable, maintainable, and production-ready software.
+Product-Focused Technical Architect \| Backend Systems Engineer
 
-I’ve contributed across product development, consulting, enterprise platforms, and academic environments, including teaching advanced computing (Parallel & Distributed Computing, CUDA, HPC). I enjoy simplifying complex business domains, designing practical architectures, and building systems that continue to work long after delivery.
+I architect scalable business systems and build product-ready backend
+platforms with over 17 years of experience across enterprise software,
+SaaS systems, accounting engines, and distributed computing
+environments.
 
----
+My work sits at the intersection of:
 
-## Areas of Focus
+• Software Architecture\
+• Product-Oriented System Design\
+• Commercially Scalable Platforms
 
-- Backend architecture and API design using Laravel and PHP  
-- Accounting and financial systems (Tally-inspired structures, ledgers, vouchers)  
-- Enterprise web applications, custom CMS/SaaS platforms, and workflow automation  
-- Refactoring, stability improvements, and long-term maintainability  
-- Team leadership, code reviews, mentoring, and delivery management  
-- Distributed systems and high-performance computing foundations (MPI, OpenMP, CUDA)
+I design systems not just to function --- but to evolve into
+sustainable, maintainable products.
 
----
+------------------------------------------------------------------------
 
-## Selected Work
+## Core Focus
 
-Below is a sample of projects and systems I’ve built across my roles and freelance work.  
-(If you’d like me to turn any of these into dedicated GitHub repositories or publish technical write-ups, feel free to reach out.)
+-   Vertical SaaS architecture (Practice, Distribution, Education
+    systems)
+-   Modular accounting engines (Tally-inspired ledger & voucher
+    structures)
+-   Multi-tenant SaaS infrastructure
+-   Advanced RBAC / Attribute-Based Access Control
+-   Enterprise workflow automation
+-   AI-integrated backend systems
+-   Cost-optimized model orchestration & automation pipelines
 
-**Accounting Structure & Ledger Workflows**  
-Design and implementation of Tally-like accounting structures, voucher flows, reconciliation logic, and import utilities. Built for multiple clients requiring correctness, auditability, and multi-ledger workflows.
+------------------------------------------------------------------------
 
-**EMS Training Platform**  
-Backend APIs and administration panel powering mobile apps for trainers and customers. Includes scheduling, reporting, trainer management, and content workflows.
+## Selected Work & Domain Experience
 
-**Ecommerce & Payments (UAE Client)**  
-A custom ecommerce platform with integrated payments, product workflows, fulfilment support, and multi-role administration.
+The following systems reflect my long-term focus on domain modeling,
+accounting correctness, scalable backend design, and vertically
+extensible SaaS platforms.
 
-**Parenting Course System (1,000+ learners)**  
-Automated test engine, certificates, progress tracking, and reporting for a large online course.
+**Accounting Structure & Ledger Workflows**\
+Design and implementation of Tally-like accounting structures, voucher
+flows, reconciliation logic, and multi-ledger systems built for
+correctness, auditability, and financial integrity.
 
-**Workout Program Generator (500+ clients)**  
-Personalized fitness program generation with scheduling logic and data-driven recommendations.
+**EMS Training Platform**\
+Backend APIs and administration platform powering mobile applications
+for trainers and customers. Includes scheduling logic, reporting
+systems, trainer management, and operational workflows.
 
-**Visa Consultancy CMS**  
-Content workflows, lead tracking, and streamlined operations for a consultancy serving international clients.
+**Custom Ecommerce & Payments**\
+Architecture and backend implementation of a custom ecommerce platform
+with payment integrations, multi-role administration, and fulfilment
+workflows.
 
-**Marketing Analytics Dashboard (TTNC API)**  
-Call tracking, reporting, and analytic dashboards built on top of TTNC APIs for marketing attribution.
+**Online Learning & Certification System (1,000+ learners)**\
+Automated test engines, certificate generation, learner progress
+tracking, and reporting infrastructure.
 
----
+**Workout Program Generator (500+ users)**\
+Personalized fitness program generation with scheduling logic and
+structured recommendation workflows.
 
-## Work Experience Snapshot
+**Visa Consultancy CMS & Lead Operations**\
+Content workflows, lead tracking systems, and operational streamlining
+for international consultancy services.
 
-- **Manager Web Development (Izoc Solutions):** Leading a team of developers, shipping backend systems, improving delivery workflows, and refining internal tools.  
-- **Project Manager (Machknowsoft):** Oversaw enterprise web and mobile solutions with strong backend involvement and system design responsibilities.  
-- **Product Development Manager (APTC):** Led the development and launch of an EMS Training App, including backend APIs and QA processes.  
-- **Software Engineer / Consultant:** Delivered solutions for organizations in the UAE, USA, Canada, Australia, and Pakistan across multiple domains.  
-- **Academic Faculty (Muslim Youth University):** Taught and implemented HPC, CUDA, and distributed systems labs.
+**Marketing Analytics Dashboard (TTNC API Integration)**\
+Call tracking, reporting systems, and marketing attribution dashboards
+built over external APIs.
 
-A detailed CV is available in the profile repository.
+------------------------------------------------------------------------
 
----
+## Professional Experience Snapshot
 
-## Professional Philosophy
+**Manager Web Development --- Izoc Solutions**\
+Leading backend architecture, mentoring developers, refining delivery
+workflows, and shipping production-grade systems.
 
-I focus on building systems that are clear in purpose, consistent in design, and dependable in production. Good engineering is not just code — it’s understanding the domain deeply, designing the right abstractions, and ensuring the system remains maintainable long after delivery.
+**Project Manager --- Machknowsoft**\
+Oversaw enterprise web and mobile solutions with strong backend
+involvement and architectural responsibilities.
 
----
+**Product Development Manager --- APTC**\
+Led development and launch of an EMS Training App, including backend
+APIs, QA systems, and operational workflows.
 
-## Current Research & Work in Progress: Multi-Agent Orchestration (MAO)
+**Software Engineer / Consultant**\
+Delivered backend and system architecture solutions across UAE, USA,
+Canada, Australia, and Pakistan.
 
-I am currently working on Multi-Agent Orchestration (MAO) systems to automate complex business workflows for digital marketing agencies and other operationally heavy industries. The goal is to design agentic pipelines that combine automated intelligence with Human-In-The-Loop (HITL) oversight to ensure accuracy, adaptability, and business alignment.
+**Academic Faculty --- Muslim Youth University**\
+Taught Parallel & Distributed Computing, CUDA, MPI, and high-performance
+computing labs.
 
-My focus areas include:
+------------------------------------------------------------------------
 
-- Designing modular agent workflows for content generation, campaign setup, and operational execution  
-- Coordinating autonomous agents with supervisory agents and HITL checkpoints  
-- Defining orchestration patterns for multi-step, stateful business processes  
-- Integrating traditional backend systems (Laravel/PHP) with modern LLM-based agent frameworks  
-- Building a long-term system capable of operating 70–90% of a company’s routine workflows in a semi-autonomous mode
+## Current Work: Multi-Agent Orchestration (MAO)
 
-This is an ongoing project with active experimentation and prototype development.  
-I plan to open-source parts of the orchestration framework and tooling as they mature.
+Currently researching and building modular Multi-Agent Orchestration
+(MAO) systems designed to automate structured operational workflows
+while maintaining Human-In-The-Loop (HITL) governance.
+
+Focus areas include:
+
+-   Modular agent pipelines for content, operations, and structured
+    workflows
+-   Coordination between autonomous agents and supervisory checkpoints
+-   Stateful orchestration patterns for multi-step business processes
+-   Integration between traditional backend systems (Laravel/PHP) and
+    modern LLM-based agent frameworks
+
+This work is in active experimentation and structured prototype
+development, with plans to open-source selected components as they
+mature.
+
+------------------------------------------------------------------------
+
+## Engineering Philosophy
+
+Structure before scale.\
+Ownership before comfort.\
+Clarity in domain modeling before implementation.\
+Long-term leverage over short-term output.
+
+------------------------------------------------------------------------
 
 ## Contact
 
-Portfolio: https://amrshah.github.io  
-GitHub: https://github.com/amrshah  
-Email: amr.shah@gmail.com  
+Portfolio: https://amrshah.github.io\
+GitHub: https://github.com/amrshah\
+Email: amr.shah@gmail.com
 
-Open to senior engineering, architecture, consulting, and collaboration opportunities.
-
-## Support & Sponsorship
-
-If you find my work valuable or would like to support the open-source projects, research, and development I maintain, you can sponsor or collaborate through the following channels:
-
-- GitHub Sponsors  
-- BuyMeACoffee  
-- Ko-fi  
-- Direct collaboration or consulting requests via email: amr.shah@gmail.com
-
-Your support helps sustain development of backend systems, accounting tools, agentic automation workflows, and upcoming multi-agent orchestration projects.
-
+Open to high-leverage architecture roles, product partnerships, and
+strategic technical leadership opportunities.
